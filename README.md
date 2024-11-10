@@ -1,5 +1,5 @@
-Merhaba, 
+Hi,
 
- Ben Buğra Öksüz ve yaklaşık 1,5 yıldır Front-End Developer olmak için becerilerimi geliştiriyorum. 
-Yakın zamanda bir eğitim okuluna başvurdum ve yakında başlayacak. Bu arada, deneyim kazanmak ve biraz ek gelir elde etmek için küçük projelerde serbest çalışan olarak çalışıyorum. 
-Şu anda İstanbul Beykent Üniversitesi'nde burslu Endüstriyel Tasarım okuyan bir öğrenciyim ve hazırlık sınıfındayım.
+ I'm Buğra Öksüz, and I've been developing my skills to become a Front-End Developer for almost 1.5 years. Recently, I applied for an education school and it will begin soon. In the meantime, I'm working as a freelancer on small projects to gain experience and earn some extra income.
+
+Currently, I'm a student at Istanbul Beykent University, studying Industrial Design with a scholarship, and I'm in the preparatory year.
